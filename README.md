@@ -12,7 +12,7 @@ I'm currently working on a mod for **[ReSkate](https://github.com/Dingo-Shenanig
 - `C++` <img width="20" height="20" alt="1" src="https://github.com/user-attachments/assets/4e3ed8b6-60bf-487d-b805-adc8fdb0865b" />
 
 ### 💬 Message me
-You can reach me through ***LinkedIn, Discord,*** or my ***Instagram*** anytime. 
+You can reach me through ***[LinkedIn](https://www.linkedin.com/in/natasha-charncherngkha-3813b92b2/)***, ***Discord,*** or my ***Instagram*** anytime. 
 
 ### Fun facts
 - 🎧 I'm a video editor, photographer, and musician!
