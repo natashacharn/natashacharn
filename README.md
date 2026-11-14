@@ -2,7 +2,7 @@
 
 ## I'm Natasha, an ***aspiring game engineer*** currently studying a BsC. in Computer Science, based in Budapest, Hungary. <img src="https://flagcdn.com/w40/hu.png" width="24" alt="Hungary flag" />
 
-I'm currently working on a mod for **[ReSkate]**(https://github.com/Dingo-Shenanigans/ReSkate), which allows hitching vehicles *(like in Skate 3!)* and a mod that allows you to **attack/collide** with pedestrians. 
+I'm currently working on a mod for **[ReSkate](https://github.com/Dingo-Shenanigans/ReSkate)**, which allows hitching vehicles *(like in Skate 3!)* and a mod that allows you to **attack/collide** with pedestrians. 
 
 <img width="120" height="100" alt="hop-on-skate-hop-on-skate-4" src="https://github.com/user-attachments/assets/24095fa1-e710-4b09-82e8-042d32529353" />
 
