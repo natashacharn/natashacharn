@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hey there! 👋
 
+I'm Natasha, an aspiring game engineer based in Budapest, Hungary. 
+
+I'm currently working on a mod for ReSkate, which allows hitching vehicles (like in Skate 3!) and a mod that allows you to attack/collide with pedestrians. 
+
+### My Toolkit
+- Java
+- Python
+- C++
+
+You can reach me through LinkedIn, Discord, or my Instagram anytime.
 <!--
 **natashacharn/natashacharn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
