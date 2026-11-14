@@ -3,7 +3,7 @@
 I'm Natasha, an aspiring game engineer based in Budapest, Hungary. 
 
 I'm currently working on a mod for ReSkate, which allows hitching vehicles (like in Skate 3!) and a mod that allows you to attack/collide with pedestrians.
-<img width="20" height="20" alt="robert-skate" src="https://github.com/user-attachments/assets/96a53fd8-0219-4cf9-942d-446d78f1951f" />
+<img width="30" height="30" alt="robert-skate" src="https://github.com/user-attachments/assets/96a53fd8-0219-4cf9-942d-446d78f1951f" />
 
 ### My Toolkit
 - Java
